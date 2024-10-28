@@ -77,6 +77,10 @@ source ~/.bashrc
 
 ## 6. Install the Latest Version of **Node.js**
 Once NVM is installed, you can use it to install the latest version of Node.js:
+
+> [!TIP]
+> We generally use Node 11.14.0 for Legacy Projects and 21.2.0 for latest.
+
 - Check the latest Node version with:
 
 ```bash
