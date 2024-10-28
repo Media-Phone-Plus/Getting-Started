@@ -60,6 +60,9 @@ To enhance your productivity, you’ll need to install some VS Code extensions.
 
 NVM allows you to manage multiple versions of Node.js on your system. You will use it to install the latest and older versions of Node.js.
 
+> [!TIP]
+> We generally use Node 11.14.0 for Legacy Projects and 21.2.0 for latest.
+
 **Windows**: Install NVM via [nvm-windows](https://github.com/coreybutler/nvm-windows/releases).
 
 **macOS/Linux**: Install NVM via terminal:
