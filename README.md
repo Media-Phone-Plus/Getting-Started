@@ -156,7 +156,7 @@ We use Gulp to automate tasks for both **Development** and **Production** enviro
 
 -  **Development Tasks**:
 
-- These tasks involve compiling SCSS, bundling JS, watching files, and launching a local development server with live-reload. Typically, you\u2019ll run the following command during development:
+- These tasks involve compiling SCSS, bundling JS, watching files, and launching a local development server with live-reload. Typically, you will run the following command during development:
 
 ```bash
 gulp development
